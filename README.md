@@ -66,12 +66,19 @@ Templates für sofortige Verwendung:
 
 ## 🚀 Quick Start
 
+### Voraussetzungen
+
+⚠️ **Claude Pro oder Max Abo** erforderlich für das Hinzufügen von Skills/Fähigkeiten
+
 ### Installation (2 Minuten)
 
-1. **Download:** `ai-act-qms-skill-v1.0.zip` entpacken
-2. **Upload:** `SKILL.md` in dein Claude Project hochladen
-3. **Start:** `/start aiact` eingeben
-4. **Fertig!** Claude begleitet dich durch das Assessment
+1. **Download:** `ai-act-qms-skill-v1.0.zip` herunterladen (NICHT entpacken!)
+2. **Claude öffnen:** Web-Version (claude.ai) oder Desktop-App
+3. **Skill hinzufügen:**
+   - Einstellungen → Fähigkeiten → Fähigkeiten hinzufügen
+   - ZIP-Datei direkt hochladen
+4. **Start:** `/start aiact` im Chat eingeben
+5. **Fertig!** Claude begleitet dich durch das Assessment
 
 ### Erste Schritte
 

@@ -1,20 +1,39 @@
 # 🚀 Quick Start: EU AI Act Compliance QMS Skill
 
+## Voraussetzungen
+
+⚠️ **Claude Pro oder Max Abo** erforderlich für das Hinzufügen von Skills/Fähigkeiten
+
 ## Installation in Claude (2 Minuten)
 
-### Methode 1: Einzelne SKILL.md Datei (Empfohlen ⭐)
+### Methode 1: Claude Skills/Fähigkeiten (Empfohlen ⭐)
 
-1. **Entpacke** die ZIP-Datei `ai-act-qms-skill-v1.0.zip`
-2. **Öffne Claude.ai** und erstelle oder öffne ein Project
-3. **Upload** nur die Datei `SKILL.md` ins Project
-4. **Fertig!** Der Skill ist aktiv.
+1. **Download** `ai-act-qms-skill-v1.0.zip` (NICHT entpacken!)
+2. **Öffne Claude:** Web-Version (claude.ai) oder Desktop-App
+3. **Skill hinzufügen:**
+   - Einstellungen → Fähigkeiten → Fähigkeiten hinzufügen
+   - ZIP-Datei direkt hochladen
+4. **Fertig!** Der Skill ist global verfügbar in allen Chats
 
 **Test:**
 ```
 /start aiact
 ```
 
-### Methode 2: Komplettes Skill-Verzeichnis
+**Vorteil:** Skill ist in allen Conversations verfügbar, keine Uploads nötig
+
+### Methode 2: Project Upload (Ohne Skills-Feature)
+
+Falls du kein Pro/Max Abo hast:
+
+1. **Entpacke** die ZIP-Datei `ai-act-qms-skill-v1.0.zip`
+2. **Öffne Claude.ai** und erstelle oder öffne ein Project
+3. **Upload** nur die Datei `SKILL.md` ins Project
+4. **Fertig!** Der Skill ist in diesem Project aktiv
+
+**Vorteil:** Funktioniert auch ohne Pro/Max Abo
+
+### Methode 3: Komplettes Skill-Verzeichnis (Advanced)
 
 1. **Entpacke** die ZIP-Datei
 2. **Öffne Claude.ai** Project
@@ -22,12 +41,6 @@
 4. Claude hat Zugriff auf alle Templates und Scripts
 
 **Vorteil:** Python Scripts können direkt ausgeführt werden
-
-### Methode 3: Project Knowledge (Advanced)
-
-1. Project Settings → Custom Instructions
-2. **Füge SKILL.md** als Custom Instruction hinzu
-3. Skill ist permanent im Project aktiv
 
 ---
 
